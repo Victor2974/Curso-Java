@@ -1,18 +1,27 @@
-## Getting Started
+# ☕ Meus Exercícios e Aprendizados em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao meu repositório de estudos! Aqui eu centralizo todos os códigos, desafios e exercícios que desenvolvo enquanto domino a linguagem Java e os conceitos de desenvolvimento de software.
 
-## Folder Structure
+## 🚀 Tecnologias e Ferramentas Utilizadas
+- **Linguagem:** Java (JDK 21)
+- **IDE:** VS Code 
+- **Controle de Versão:** Git e GitHub
 
-The workspace contains two folders by default, where:
+## 📂 Estrutura do Repositório
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto está organizado por pacotes ou pastas de exercícios. Abaixo estão alguns dos principais destaques do que já foi desenvolvido:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 🏦 1. Sistema Bancário Terminal (`exercicios/ex2`)
+Um sistema de simulação de conta bancária interativo rodando via console.
+- **Conceitos aplicados:** Orientação a Objetos (Instanciação de classes, Construtores sobrecarregados), Estruturas de Repetição (`while`), Entrada de dados com `Scanner` (resolvendo limpeza de buffer) e Formatação de dados (`printf`).
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🧠 Evolução e Conceitos Praticados até o momento
+À medida que avanço nos estudos, vou documentando os tópicos assimilados:
+- [x] Lógica de programação básica e operadores
+- [x] Estruturas condicionais (`if`, `else if`, `else`)
+- [x] Estruturas de repetição (`while`, `for`)
+- [x] Manipulação e leitura de dados no console (`Scanner`)
+- [x] Conceitos iniciais de Orientação a Objetos (Classes, Atributos, Métodos)
