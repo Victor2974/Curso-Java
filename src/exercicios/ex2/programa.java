@@ -29,15 +29,16 @@ public class programa {
     
 
 
-        int escolha = 0;
-        while(escolha != 3){
+        
+        for(int escolha = 0; escolha!= 4;){
             System.out.println("\nAccount data: ");
             System.out.printf("Account %d, Holder: %s, Balance %.2f%n",conta.getNumero_conta(), conta.getTitular(), conta.getSaldo());
 
             double valor;
             System.out.println("1 - Depostit");
             System.out.println("2 - Withdraw");
-            System.out.println("3 - Exit");
+            System.out.println("3 - Change name holder");
+            System.out.println("4 - Exit");
             escolha = sc.nextInt();
 
             if(escolha == 1){
@@ -48,6 +49,11 @@ public class programa {
                 System.out.print("\nEnter a withdraw value: ");
                 valor = sc.nextDouble();
                 conta.saque(valor);
+            }else if (escolha == 3){
+                System.out.print("\nEnter a new name: ");
+                sc.nextLine();
+                nome = sc.nextLine();
+                conta.setTitular(nome);
             }
 
 
