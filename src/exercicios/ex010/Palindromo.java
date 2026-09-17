@@ -1,4 +1,4 @@
-package exercicios.ex10;
+package exercicios.ex010;
 
 public class Palindromo {
 

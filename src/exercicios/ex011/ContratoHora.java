@@ -1,4 +1,4 @@
-package exercicios.ex11;
+package exercicios.ex011;
 
 import java.time.LocalDate;
 import java.util.Date;

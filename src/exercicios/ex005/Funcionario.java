@@ -1,4 +1,4 @@
-package exercicios.ex5;
+package exercicios.ex005;
 
 public class Funcionario{
 

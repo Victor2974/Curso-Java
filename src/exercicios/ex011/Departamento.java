@@ -1,4 +1,4 @@
-package exercicios.ex11;
+package exercicios.ex011;
 
 public class Departamento {
 

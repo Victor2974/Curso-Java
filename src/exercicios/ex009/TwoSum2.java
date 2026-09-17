@@ -1,4 +1,4 @@
-package exercicios.ex9;
+package exercicios.ex009;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package exercicios.ex1;
+package exercicios.ex001;
 
 
 import java.util.Locale;

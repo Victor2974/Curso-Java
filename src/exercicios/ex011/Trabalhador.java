@@ -1,4 +1,4 @@
-package exercicios.ex11;
+package exercicios.ex011;
 
 import javax.xml.crypto.Data;
 import java.util.ArrayList;

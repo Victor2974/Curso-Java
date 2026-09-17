@@ -1,4 +1,4 @@
-package exercicios.ex3;
+package exercicios.ex003;
 
 import java.util.Scanner;
 import java.util.Locale;

@@ -1,4 +1,4 @@
-package exercicios.ex5;
+package exercicios.ex005;
 
 import java.util.ArrayList;
 import java.util.List;
